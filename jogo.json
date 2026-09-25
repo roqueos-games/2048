@@ -1,0 +1,58 @@
+{
+  "id": "game2048",
+  "slug": "2048",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "2048",
+    "en-US": "2048",
+    "es-ES": "2048",
+    "fr-FR": "2048",
+    "de-DE": "2048",
+    "ja-JP": "2048",
+    "zh-CN": "2048",
+    "hi-IN": "2048",
+    "ru-RU": "2048",
+    "ar-AR": "2048"
+  },
+  "descricao": {
+    "pt-BR": "Deslize as peças, junte os números iguais e chegue à peça 2048.",
+    "en-US": "Slide the tiles, merge matching numbers and reach the 2048 tile.",
+    "es-ES": "Desliza las fichas, une los números iguales y llega a la ficha 2048.",
+    "fr-FR": "Fais glisser les tuiles, fusionne les nombres identiques et atteins la tuile 2048.",
+    "de-DE": "Schiebe die Kacheln, füge gleiche Zahlen zusammen und erreiche die 2048-Kachel.",
+    "ja-JP": "タイルをスライドし、同じ数字を合体させて2048タイルを目指そう。",
+    "zh-CN": "滑动方块，合并相同的数字，凑出 2048 方块，别把棋盘走死。",
+    "hi-IN": "टाइलें सरकाएं, समान संख्याओं को मिलाएं और 2048 टाइल तक पहुँचें।",
+    "ru-RU": "Двигай плитки, объединяй одинаковые числа и собери плитку 2048.",
+    "ar-AR": "حرّك المربعات، ادمج الأرقام المتطابقة وصِل إلى مربع 2048."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Jogue 2048 grátis no navegador: deslize, junte os números iguais e chegue na peça 2048 sem travar o tabuleiro.",
+      "sobre": "O 2048 original: todo movimento empurra o tabuleiro inteiro e nasce uma peça nova. O jogo não acaba quando você chega em 2048 — acaba quando não sobra jogada, e é por isso que manter o maior número num canto importa.",
+      "comoJogar": "Setas ou deslize. Cada movimento vale, inclusive o que não junta nada."
+    },
+    "en-US": {
+      "resumo": "Play 2048 free in your browser: slide, merge matching numbers and reach the 2048 tile without locking the board.",
+      "sobre": "The original 2048: every move pushes the whole board and spawns a new tile. The game does not end when you reach 2048 — it ends when no move is left, which is why keeping your biggest tile in a corner matters.",
+      "comoJogar": "Arrows or swipe. Every move counts, including the ones that merge nothing."
+    }
+  },
+  "etiquetas": ["Puzzle", "Classic", "Logic"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(245, 158, 11, 0.5)",
+  "janela": {
+    "largura": 480,
+    "altura": 640,
+    "minLargura": 340,
+    "minAltura": 480
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

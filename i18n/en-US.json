@@ -1,0 +1,18 @@
+{
+  "tagline": "Slide the tiles, merge matching numbers and reach 2048.",
+  "play": "Play",
+  "best": "Best",
+  "score": "Score",
+  "over": "No moves left",
+  "newRecord": "New record!",
+  "retry": "Play again",
+  "newGame": "New game",
+  "youWin": "You reached 2048!",
+  "keepGoing": "Keep going",
+  "share": "Share",
+  "shareText": "I scored {score} in RoqueOS 2048! 🔢 Can you beat it?",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off",
+  "hintKeys": "Arrows or WASD to move",
+  "hintTouch": "Swipe to move the tiles"
+}

@@ -1,0 +1,18 @@
+{
+  "tagline": "タイルをスライドし、同じ数字を合体させて2048を目指せ。",
+  "play": "プレイ",
+  "best": "ベスト",
+  "score": "スコア",
+  "over": "動かせません",
+  "newRecord": "新記録！",
+  "retry": "もう一度",
+  "newGame": "新しいゲーム",
+  "youWin": "2048に到達！",
+  "keepGoing": "続ける",
+  "share": "シェア",
+  "shareText": "RoqueOSの2048で{score}点を獲得！🔢 これを超えられる？",
+  "soundOn": "サウンドON",
+  "soundOff": "サウンドOFF",
+  "hintKeys": "矢印キーまたはWASDで移動",
+  "hintTouch": "スワイプでタイルを移動"
+}

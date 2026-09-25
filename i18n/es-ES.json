@@ -1,0 +1,18 @@
+{
+  "tagline": "Desliza las fichas, une los números iguales y llega a 2048.",
+  "play": "Jugar",
+  "best": "Récord",
+  "score": "Puntos",
+  "over": "Sin movimientos",
+  "newRecord": "¡Nuevo récord!",
+  "retry": "Jugar de nuevo",
+  "newGame": "Partida nueva",
+  "youWin": "¡Llegaste a 2048!",
+  "keepGoing": "Seguir jugando",
+  "share": "Compartir",
+  "shareText": "¡Hice {score} puntos en 2048 de RoqueOS! 🔢 ¿Puedes superarlo?",
+  "soundOn": "Sonido activado",
+  "soundOff": "Sonido desactivado",
+  "hintKeys": "Flechas o WASD para mover",
+  "hintTouch": "Desliza para mover las fichas"
+}

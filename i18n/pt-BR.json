@@ -1,0 +1,18 @@
+{
+  "tagline": "Deslize as peças, junte os números iguais e chegue ao 2048.",
+  "play": "Jogar",
+  "best": "Recorde",
+  "score": "Pontos",
+  "over": "Sem movimentos",
+  "newRecord": "Novo recorde!",
+  "retry": "Jogar de novo",
+  "newGame": "Novo jogo",
+  "youWin": "Você chegou ao 2048!",
+  "keepGoing": "Continuar jogando",
+  "share": "Compartilhar",
+  "shareText": "Fiz {score} pontos no 2048 do RoqueOS! 🔢 Consegue mais?",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado",
+  "hintKeys": "Setas ou WASD para mover",
+  "hintTouch": "Deslize para mover as peças"
+}

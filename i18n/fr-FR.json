@@ -1,0 +1,18 @@
+{
+  "tagline": "Fais glisser les tuiles, fusionne les nombres identiques et atteins 2048.",
+  "play": "Jouer",
+  "best": "Record",
+  "score": "Score",
+  "over": "Plus aucun coup",
+  "newRecord": "Nouveau record !",
+  "retry": "Rejouer",
+  "newGame": "Nouvelle partie",
+  "youWin": "Tu as atteint 2048 !",
+  "keepGoing": "Continuer",
+  "share": "Partager",
+  "shareText": "J'ai fait {score} points sur 2048 de RoqueOS ! 🔢 Tu peux faire mieux ?",
+  "soundOn": "Son activé",
+  "soundOff": "Son désactivé",
+  "hintKeys": "Flèches ou WASD pour bouger",
+  "hintTouch": "Glisse pour déplacer les tuiles"
+}

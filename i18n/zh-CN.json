@@ -1,0 +1,18 @@
+{
+  "tagline": "滑动方块，合并相同的数字，冲向 2048。",
+  "play": "开始",
+  "best": "最佳",
+  "score": "得分",
+  "over": "无法移动",
+  "newRecord": "新纪录！",
+  "retry": "再玩一次",
+  "newGame": "新游戏",
+  "youWin": "你达到了 2048！",
+  "keepGoing": "继续",
+  "share": "分享",
+  "shareText": "我在 RoqueOS 2048 得了 {score} 分！🔢 你能超过吗？",
+  "soundOn": "声音开",
+  "soundOff": "声音关",
+  "hintKeys": "方向键或 WASD 移动",
+  "hintTouch": "滑动来移动方块"
+}
