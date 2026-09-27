@@ -8,6 +8,14 @@ chegue na peça 2048 sem travar o tabuleiro. Jogue em
 
 _English below._
 
+## Como jogar
+
+Setas no teclado, ou deslize o dedo na tela. Cada movimento empurra o tabuleiro inteiro na
+direção escolhida, junta as peças iguais que se encostam e faz nascer uma peça nova. Chegar
+em 2048 não termina a partida: ela acaba quando não sobra jogada, e é por isso que manter o
+maior número num canto costuma render mais. O recorde fica na sua conta do RoqueOS, ou no
+navegador quando o jogo roda sozinho.
+
 ## Por que existe
 
 Até 25/09/2026 este jogo morava dentro do repositório do RoqueOS e importava as stores do
@@ -80,6 +88,8 @@ The 2048 game from [RoqueOS](https://roqueos.com.br). It talks to RoqueOS only t
 [`jogo-sdk`](https://github.com/roqueos-games/jogo-sdk), so the same code runs inside
 RoqueOS, standalone in your browser and in tests.
 
+- How to play: arrow keys or swipe. Every move pushes the whole board and spawns a new tile;
+  the game ends when no move is left, not when you reach 2048.
 - `yarn install --ignore-scripts`, then `yarn dev` to play it locally.
 - `yarn verificar` runs lint, formatting, tests and `jogo check`, exactly like CI.
 - Code and comments are in Brazilian Portuguese; issues and pull requests in English are
